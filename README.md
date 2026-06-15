@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🎮 gaming-site</h1>
+  <h1>🎮 Amazen</h1>
   <p>Welcome to the Amazen development repository.</p>
 </div>
 
