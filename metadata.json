@@ -1,0 +1,6 @@
+{
+  "name": "Amazen Retail Storefront",
+  "description": "A highly precise, high-density, Amazon-inspired enterprise e-commerce frontend featuring advanced multi-faceted product filtering, an interactive basket engine, a sliding drawer, and seamless day/night ambient color palettes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
